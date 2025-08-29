@@ -4,7 +4,6 @@ longform:
   title: blog
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - About
+  scenes: []
   ignoredFiles: []
 ---
